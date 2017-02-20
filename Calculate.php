@@ -40,7 +40,7 @@
 ?>
 <br>
 <br>
-<a href="index2.html"><input type="submit" value="Back" style="width:50px; height:20px; clear:both; border-style:none; background-color:#fff; cursor:pointer; color:#adadad; ">
+<a href="index.html"><input type="submit" value="Back" style="width:50px; height:20px; clear:both; border-style:none; background-color:#fff; cursor:pointer; color:#adadad; ">
 </a>
 
 </div>
